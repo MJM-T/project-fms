@@ -1,6 +1,6 @@
 /*-------------------------------------------------------------------------------------------
 	PROJECT: Project Fine Motor Skills (FMS) for a stroke patient (mobile application)
-	GROUP MEMBERS: Team #7, composed of Joseph Gonzalez, Matthias Mitchell, and Saud Alsaif
+	AUTHORS: Matthias Mitchell, Joseph Gonzalez, and Saud Alsaif
 	FILE DESCRIPTION: Defines an Obstacle class for reference in monkey.js for barriers.
 -------------------------------------------------------------------------------------------*/
 
